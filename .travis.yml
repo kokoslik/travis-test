@@ -1,0 +1,9 @@
+os: linux
+dist: xenial
+language: cpp
+compiler: gcc
+script:
+    -mkdir build
+    -cd build
+    -cmake ..
+    -cmake . --build
