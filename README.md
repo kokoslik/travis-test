@@ -1,2 +1,2 @@
 # travis-test
-Simple helloworld test for travis and bintray
+Simple helloworld test for travis and bintray.
